@@ -4,12 +4,12 @@ Este repositório serve como um guia de referência rápida para navegar no vast
 
 ## 📌 Sumário
 
-* [Computação](https://www.google.com/search?q=%23computa%C3%A7%C3%A3o)
-* [Redes](https://www.google.com/search?q=%23redes)
-* [Armazenamento](https://www.google.com/search?q=%23armazenamento)
-* [Bancos de Dados](https://www.google.com/search?q=%23bancos-de-dados)
-* [Inteligência Artificial e Machine Learning](https://www.google.com/search?q=%23ia-e-ml)
-* [DevOps e Governança](https://www.google.com/search?q=%23devops-e-governan%C3%A7a)
+* Computação
+* Redes
+* Armazenamento
+* Bancos de Dados
+* Inteligência Artificial e Machine Learning
+* DevOps e Governança
 
 ---
 
@@ -57,4 +57,9 @@ Ferramentas para integrar inteligência artificial em suas soluções.
 * **Azure AI Search:** Recuperação de informações e busca inteligente.
 * **Machine Learning Studio:** Ciclo de vida completo para cientistas de dados.
 
----
+## Cursos Microsoft
+
+AZURE AZ 900
+
+Introdução à Infraestrutura de Nuvem: Descrever conceitos de nuvem
+https://learn.microsoft.com/pt-br/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/
