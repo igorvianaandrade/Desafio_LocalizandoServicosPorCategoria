@@ -57,9 +57,53 @@ Ferramentas para integrar inteligência artificial em suas soluções.
 * **Azure AI Search:** Recuperação de informações e busca inteligente.
 * **Machine Learning Studio:** Ciclo de vida completo para cientistas de dados.
 
-## Cursos Microsoft
+## ☁️ Fundamentos da Nuvem Azure (AZ-900)
 
-AZURE AZ 900
+### O que é Computação em Nuvem?
 
-Introdução à Infraestrutura de Nuvem: Descrever conceitos de nuvem
+A computação em nuvem é o fornecimento de serviços de computação — incluindo servidores, armazenamento, bancos de dados, rede, software e análise — pela Internet (“a nuvem”) para oferecer inovação mais rápida, recursos flexíveis e economias de escala.
+
+### Modelo de Responsabilidade Compartilhada
+
+Na nuvem, a segurança e a gestão são uma via de mão dupla. A divisão de tarefas depende de onde o serviço se hospeda:
+
+* **SaaS (Software como Serviço):** O provedor (Microsoft) gerencia quase tudo.
+* **PaaS (Plataforma como Serviço):** Você foca no código e nos dados; o Azure cuida do SO e hardware.
+* **IaaS (Infraestrutura como Serviço):** Você gerencia o SO e as aplicações; o Azure cuida da infraestrutura física.
+
+---
+
+## 🏗️ Modelos de Nuvem
+
+| Modelo | Descrição | Casos de Uso Apropriados |
+| --- | --- | --- |
+| **Pública** | Recursos de propriedade de um provedor de serviços de nuvem de terceiros. | Startups, aplicações web de escala rápida, e-commerce. |
+| **Privada** | Recursos usados exclusivamente por uma única organização. | Órgãos governamentais, dados altamente sensíveis, legado físico. |
+| **Híbrida** | Combina nuvens públicas e privadas, permitindo que dados e apps sejam compartilhados entre elas. | Transição gradual para a nuvem, conformidade de dados locais. |
+
+---
+
+## 💰 Modelos Econômicos e de Preços
+
+### Modelo Baseado no Consumo
+
+Diferente do modelo tradicional de TI, no Azure você não paga por recursos ociosos.
+
+* **Sem custos iniciais:** Não é necessário comprar hardware caro.
+* **Pagamento pelo uso:** Você é cobrado apenas pelo que consome (minutos, GBs, requisições).
+* **Escalabilidade:** Capacidade de interromper o pagamento por recursos que não são mais necessários.
+
+### Comparativo de Preços (CapEx vs. OpEx)
+
+* **CapEx (Gastos de Capital):** É o gasto inicial de fundos em infraestrutura física. O custo é deduzido ao longo do tempo.
+* *Exemplo:* Comprar um servidor físico.
+
+
+* **OpEx (Gastos Operacionais):** É o gasto atual com serviços ou produtos. Você é cobrado imediatamente e pode deduzir o gasto no mesmo ano fiscal.
+* *Exemplo:* Assinatura mensal do Azure.
+---
+
+## Cursos Microsoft - AZURE AZ 900
+
+# Introdução à Infraestrutura de Nuvem - Descrever conceitos de nuvem:
 https://learn.microsoft.com/pt-br/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/
